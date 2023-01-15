@@ -1,5 +1,6 @@
 shutdown
 matrix
+close
 rick
 stop
 alt
